@@ -9,7 +9,6 @@
  * Return: void
  */
 
-
 void print_remaining_day(int month, int day, int year)
 
 {
